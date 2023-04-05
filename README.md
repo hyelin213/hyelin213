@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
 <!--
 **hyelin213/hyelin213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
