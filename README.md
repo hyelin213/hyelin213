@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   
-  [:sunny:HYLN :: Portfolio:sunny:](https://hyelin213.github.io/HYLN-PortfolioSite/)
+  [:sunny: HYLN :: Portfolio :sunny:](https://hyelin213.github.io/HYLN-PortfolioSite/)
   <br/>
   <br/>
   <!-- 소개 -->
