@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <div align=center>
   <!-- 소개 -->
-  👋 Hi, I'm Kim Hyelin!<br/>
-  I'm trying to become a nice developer😎
+  :wave: Hi, I'm Kim Hyelin!<br/>
+  I'm trying to become a nice developer:sunglasses:
   <br/>
   <br/>
   <!-- 소개 -->
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <!-- 구분선 -->
   
   <!-- 기술 스택 -->
-  ✨Tech Stack
+  :sparkles:Tech Stack
   <br/>
   <div dispaly=flex>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <!-- 기술 스택 -->
   
   <!-- 공부 중 -->
-  🌱Studying
+  :seedling:Studying
   <br/>
   <div dispaly=flex>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
