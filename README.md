@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <div align=center>
   <!-- 소개 -->
   :wave: Hi, I'm Kim Hyelin!
-  <br/>
+  
   I'm trying to become a nice developer:sunglasses:
-  <br/>
-  <br/>
   <br/>
   
   [:sunny: HYLN :: Portfolio :sunny:](https://hyelin213.github.io/HYLN-PortfolioSite/)
@@ -43,7 +41,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   </div>
-  <br/>
   <br/>
   <!-- 기술 스택 -->
   
