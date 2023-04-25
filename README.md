@@ -20,9 +20,6 @@ Here are some ideas to get you started:
   
   I'm trying to become a nice developer:sunglasses:
   <br/>
-  
-  [:sunny: HYLN :: Portfolio :sunny:](https://hyelin213.github.io/HYLN-PortfolioSite/)
-  <br/>
   <br/>
   <!-- 소개 -->
   
