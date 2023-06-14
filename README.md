@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align=center>
+<div>
   <!-- 소개 -->
   :wave: Hi, I'm Kim Hyelin!
   
