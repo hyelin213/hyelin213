@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <!-- 소개 -->
   :wave: Hi, I'm Kim Hyelin!
   
-  I'm trying to become a nice developer:sunglasses:
+  I'm trying to become a nice developer.
   <br/>
   <br/>
   <!-- 소개 -->
